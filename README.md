@@ -7,4 +7,4 @@ Techniques used in this project:
     Cleaning Data in Python
     Manipulating DataFrames with pandas
 
-Data source: www.datacamp.com I used the cryptocurrency dataset in the year of 2017 and 2018
+Data source: www.datacamp.com I used the cryptocurrency dataset in the year of 2017 and 2018.
