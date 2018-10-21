@@ -1,6 +1,6 @@
 # Exploring-the-Bitcoin-cryptocurrency-market
 
-In this project on Datacamp, I want to better understand the growth and impact of Bitcoin and other cryptocurrencies by exploring the market capitalization of different cryptocurrencies.
+In this project, I want to better understand the growth and impact of Bitcoin and other cryptocurrencies by exploring the market capitalization of different cryptocurrencies.
 
 Techniques used in this project:
 
